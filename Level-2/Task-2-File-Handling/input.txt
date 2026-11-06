@@ -1,0 +1,4 @@
+Java is a popular programming language.
+Java is used for desktop and web applications.
+File handling is an important Java concept.
+Java supports reading and writing files.

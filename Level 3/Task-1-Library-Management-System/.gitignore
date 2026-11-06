@@ -1,0 +1,13 @@
+
+# Java compiled files
+*.class
+
+# Database credentials
+.env
+config.properties
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log

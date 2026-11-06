@@ -1,0 +1,5 @@
+FILE HANDLING RESULTS
+---------------------
+Total Lines: 4
+Total Words: 27
+Total Characters: 168                                                
